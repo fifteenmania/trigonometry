@@ -1,0 +1,120 @@
+  1. tan60 =  		  2. sin30 =  		  3. tan30 =  		  4.  cos0 =  		  5. sin60 =  		
+
+
+  6. tan60 =  		  7.  sin0 =  		  8. sin60 =  		  9. sin60 =  		 10.  cos0 =  		
+
+
+ 11.  cos0 =  		 12.  tan0 =  		 13. sin30 =  		 14. cos60 =  		 15. tan60 =  		
+
+
+ 16.  tan0 =  		 17.  tan0 =  		 18. cos30 =  		 19. tan30 =  		 20.  sin0 =  		
+
+
+ 21.  tan0 =  		 22.  tan0 =  		 23. cos60 =  		 24. cos30 =  		 25. tan30 =  		
+
+
+ 26. tan60 =  		 27.  sin0 =  		 28. cos30 =  		 29.  tan0 =  		 30. sin30 =  		
+
+
+ 31. sin60 =  		 32.  tan0 =  		 33. cos30 =  		 34. sin60 =  		 35. sin30 =  		
+
+
+ 36.  tan0 =  		 37.  tan0 =  		 38. sin60 =  		 39.  cos0 =  		 40. cos60 =  		
+
+
+ 41. cos60 =  		 42. cos30 =  		 43. cos60 =  		 44. sin60 =  		 45. tan30 =  		
+
+
+ 46.  cos0 =  		 47. tan30 =  		 48. tan30 =  		 49.  tan0 =  		 50. cos60 =  		
+
+
+ 51. cos60 =  		 52.  sin0 =  		 53.  cos0 =  		 54. cos60 =  		 55.  tan0 =  		
+
+
+ 56. tan60 =  		 57. tan30 =  		 58.  cos0 =  		 59.  tan0 =  		 60.  cos0 =  		
+
+
+ 61.  sin0 =  		 62.  tan0 =  		 63. tan60 =  		 64. cos30 =  		 65. tan30 =  		
+
+
+ 66. tan30 =  		 67. cos30 =  		 68. sin30 =  		 69. cos60 =  		 70.  sin0 =  		
+
+
+ 71. sin60 =  		 72.  cos0 =  		 73. tan60 =  		 74. sin60 =  		 75.  tan0 =  		
+
+
+ 76. tan30 =  		 77. tan30 =  		 78. cos60 =  		 79. cos60 =  		 80. cos60 =  		
+
+
+ 81. sin60 =  		 82. cos60 =  		 83.  tan0 =  		 84.  sin0 =  		 85. tan60 =  		
+
+
+ 86. sin60 =  		 87. tan30 =  		 88.  cos0 =  		 89.  cos0 =  		 90. cos30 =  		
+
+
+ 91.  sin0 =  		 92. tan30 =  		 93. cos60 =  		 94. cos60 =  		 95. sin60 =  		
+
+
+ 96. tan30 =  		 97. cos30 =  		 98.  tan0 =  		 99. cos60 =  		100. sin30 =  		
+
+
+101. tan60 =  		102.  tan0 =  		103. tan60 =  		104. sin60 =  		105.  sin0 =  		
+
+
+106. tan30 =  		107. cos60 =  		108. sin60 =  		109. cos30 =  		110.  cos0 =  		
+
+
+111.  sin0 =  		112. sin60 =  		113.  tan0 =  		114.  cos0 =  		115. cos60 =  		
+
+
+116. tan60 =  		117. tan60 =  		118. sin30 =  		119.  cos0 =  		120. sin30 =  		
+
+
+121. tan60 =  		122. sin60 =  		123. tan60 =  		124. cos30 =  		125.  sin0 =  		
+
+
+126.  tan0 =  		127.  tan0 =  		128. cos60 =  		129. sin60 =  		130. tan60 =  		
+
+
+131.  sin0 =  		132.  cos0 =  		133.  tan0 =  		134.  tan0 =  		135. sin60 =  		
+
+
+136.  tan0 =  		137. sin60 =  		138. tan60 =  		139. tan60 =  		140. cos30 =  		
+
+
+141.  tan0 =  		142.  cos0 =  		143. cos30 =  		144. sin30 =  		145. tan30 =  		
+
+
+146. sin30 =  		147.  cos0 =  		148. sin60 =  		149.  tan0 =  		150. tan60 =  		
+
+
+151.  tan0 =  		152.  sin0 =  		153. tan30 =  		154. tan30 =  		155. sin60 =  		
+
+
+156.  sin0 =  		157.  sin0 =  		158.  tan0 =  		159. sin30 =  		160. sin30 =  		
+
+
+161. sin30 =  		162. cos30 =  		163. sin60 =  		164. cos30 =  		165. tan30 =  		
+
+
+166. tan30 =  		167.  tan0 =  		168. cos30 =  		169. tan30 =  		170. tan60 =  		
+
+
+171. tan30 =  		172. cos30 =  		173. cos60 =  		174. tan60 =  		175.  tan0 =  		
+
+
+176. sin30 =  		177. cos30 =  		178. sin30 =  		179. cos60 =  		180. sin30 =  		
+
+
+181. cos60 =  		182. sin60 =  		183. tan60 =  		184.  cos0 =  		185. cos60 =  		
+
+
+186. cos60 =  		187.  tan0 =  		188.  sin0 =  		189. sin60 =  		190. tan60 =  		
+
+
+191. sin60 =  		192. cos60 =  		193. tan30 =  		194. tan30 =  		195.  tan0 =  		
+
+
+196. cos60 =  		197. cos60 =  		198. sin60 =  		199. tan30 =  		200. cos60 =  		
+
+
